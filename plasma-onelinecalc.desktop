@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=One-Line Calculator
+Comment=Plasma One-Line Calculator
+Type=Service
+ 
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-Library=plasma_onelinecalc
+X-KDE-PluginInfo-Author=Alexey Noskov
+X-KDE-PluginInfo-Email=alexey.noskov@gmail.com
+X-KDE-PluginInfo-Name=onelinecalc
+X-KDE-PluginInfo-Version=0.2
+X-KDE-PluginInfo-Website=http://blog.alno.name/
+X-KDE-PluginInfo-Category=Examples
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true 
